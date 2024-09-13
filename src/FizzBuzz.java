@@ -35,9 +35,7 @@ class FizzBuzz {
             System.out.println("Buzz");
 
         } else {
-
             System.out.println(i);
-
         }
     }
 }
